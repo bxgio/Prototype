@@ -1,0 +1,7 @@
+flask
+torch
+transformers
+datasets
+scikit-learn
+pandas
+accelerate

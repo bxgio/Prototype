@@ -1,0 +1,6 @@
+text,intent
+"What's the weather like today?",weather
+"Give me the weather forecast.",weather
+"How's the weather right now?",weather
+"Tell me the weather for tomorrow.",weather
+"What's the weather prediction for this weekend?",weather

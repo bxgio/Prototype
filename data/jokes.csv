@@ -1,0 +1,6 @@
+text,intent
+"Tell me a joke.",joke
+"Do you know any funny jokes?",joke
+"Make me laugh with a joke.",joke
+"Can you share a joke?",joke
+"I want to hear a joke.",joke

@@ -1,0 +1,7 @@
+text,intent
+"Play some music.",music
+"Can you recommend a song?",music
+"Tell me about the top music charts.",music
+"What's the latest in music?",music
+"Play a popular song.",music
+

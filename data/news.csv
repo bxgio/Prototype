@@ -1,0 +1,6 @@
+text,intent
+"What's the latest news?",news
+"Give me today's news headlines.",news
+"What's happening in the world today?",news
+"Can you provide the latest news updates?",news
+"Tell me some recent news.",news
